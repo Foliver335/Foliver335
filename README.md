@@ -21,6 +21,6 @@ Foliver335 / Foliver335 é um repositório ✨ especial ✨ porque seu `README.m
 Você pode clicar no link Visualizar seu perfil para e adicionai-lo em sua lista rede pelo Linkedin
  ----> https://www.linkedin.com/in/felipefause  <----
 
-https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true
+https://github-readme-stats.vercel.app/api?username=Foliver33&show_icons=true
 
 
