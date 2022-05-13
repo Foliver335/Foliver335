@@ -4,8 +4,7 @@
 - 💘 Apaixonado por Python e suas Tecnologias
 - 🐍 Pythonist
 - 🐼 Pandas
-- 📗 Atualmente estudando HTML & CSS3
-- 
+- 📗 Atualmente estudando Front-End
 
 <div align="center">
   <a href="https://github.com/FOliver335">
@@ -24,13 +23,13 @@
   <img align="center" alt="Oliver-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
   
-  
-  
   ##
   
- <div> 
+ </div> 
  
  
  <br /> 
  <br />
+
+
    
