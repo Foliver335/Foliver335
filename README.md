@@ -4,7 +4,8 @@
 - 💘 Apaixonado por Python e suas Tecnologias
 - 🐍 Pythonist
 - 🐼 Pandas
-- 📗 Atualmente estudando Front-End
+- 📗 Atualmente estudando Front-End e JavaScript
+- 
 
 <div align="center">
   <a href="https://github.com/FOliver335">
