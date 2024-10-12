@@ -1,11 +1,11 @@
-<h2> Olá, Meu nome é Felipe!
+<h2> Felipe Fause
 </h2>
   
-- 💘 Apaixonado por Python e suas Tecnologias
-- 🐍 Pythonist
-- 🐼 Pandas
-- 📗 Atualmente estudando Ciencia de dados e Processos automatizados
-- 
+
+- 🐍 Junior python softwere developer
+- 🐼 Pandas Data Analizer
+- 📗 Data Science 
+- 📗 Junior python automation test developer
 
 <div align="center">
   <a href="https://github.com/FOliver335">
