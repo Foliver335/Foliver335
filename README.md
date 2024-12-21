@@ -1,43 +1,42 @@
-<h2> Felipe Fause
-</h2>
-  
+<h2 align="center">Felipe Fause</h2>
 
-- 🐍 Junior python softwere developer
-- 🐼 Pandas Data Analizer
-- 📗 Data Science 
-- 📗 Junior python automation test developer
+<p align="center">
+  🐍 Junior Python Software Developer <br>
+  🐼 Pandas Data Analyst <br>
+  📗 Data Science Enthusiast <br>
+  📗 Learning study AWS cloud
+</p>
+
+---
 
 <div align="center">
   <a href="https://github.com/FOliver335">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FOliver335&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FOliver335&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FOliver335&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Felipe's GitHub stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FOliver335&layout=compact&langs_count=7&theme=dracula" alt="Most used languages"/>
+  </a>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Oliver-Py" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> 
-  <img align="center" alt="Oliver-Pandas" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"> 
-  <img align="center" alt="Oliver-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
-  <img align="center" alt="Oliver-Anaconda" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg">
-  <img align="center" alt="Oliver-jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Oliver-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Oliver-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Oliver-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Oliver-JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> 
-  
-  
-  ##
-  
- </div> 
- 
- 
- <br /> 
- <br />
+---
 
-<img src="https://radio.x-team.com/_next/static/media/mario.2484c967.gif" width="100%" height="400vh" alt="Computador iuriCode">
-   
-
- 
+<h3 align="center">🛠️ Tech Stack</h3>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img alt="Python" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img alt="Pandas" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
+  <img alt="Django" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
+  <img alt="Anaconda" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg">
+  <img alt="Jupyter" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
+  <img alt="Angular" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
+  <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 </div>
 
+---
 
-   
+<div align="center">
+  <img src="https://radio.x-team.com/_next/static/media/mario.2484c967.gif" width="100%" height="400vh" alt="Mario GIF">
+</div>
+
+---
+
+<p align="center">💻 Always learning and building innovative solutions. Let's connect!</p>
