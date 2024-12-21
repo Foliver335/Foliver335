@@ -34,7 +34,7 @@
 ---
 
 <div align="center">
-  <img src="https://radio.x-team.com/_next/static/media/mario.2484c967.gif" width="100%" height="400vh" alt="Mario GIF">
+  <img src="[https://radio.x-team.com/_next/static/media/mario.2484c967.gif](https://miro.medium.com/v2/resize:fit:828/format:webp/1*0N8CVKix7OGfBDsgh9DzrQ.gif)" width="100%" height="400vh" alt="Mario GIF">
 </div>
 
 ---
