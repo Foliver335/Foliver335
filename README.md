@@ -28,7 +28,7 @@
   <img alt="Angular" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg">
   <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <--img alt="Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"-->
+ 
 </div>
 
 ---
