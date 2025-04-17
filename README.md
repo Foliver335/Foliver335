@@ -2,7 +2,7 @@
 
 <p align="center">
   🐍 Junior Python Software Developer <br>
-  🟣 odoo software engineer <br>
+  🟣 Odoo software engineer <br>
   🐼 Pandas Data Analyst <br>
   📗 Learning study AWS cloud
 </p>
