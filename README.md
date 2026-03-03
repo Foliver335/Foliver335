@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Felipe Fause</h1>
   <p>
-    Backend Python Developer | Odoo ERP Conuslting | Data Automation Engineer
+    Backend Python Developer | Odoo ERP Consultant | Data Automation Engineer
   </p>
 </div>
 
