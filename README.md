@@ -28,7 +28,7 @@ Software developer with 4+ years of experience building automation systems, ERP 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=FOliver335&theme=default" />
+  <img src="https://streak-stats.demolab.com?user=FOliver335&theme=tokyonight" />
 </div>
 
 ---
